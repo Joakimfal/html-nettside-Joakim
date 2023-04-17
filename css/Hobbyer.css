@@ -1,0 +1,10 @@
+img {
+    margin-top: 100px;
+
+}
+
+tr td div {
+    position: relative;
+    left: 625px;
+    z-index: -1;
+}

@@ -1,0 +1,17 @@
+
+.footer {
+    background-color: rgb(220,53,69,255);
+    position: absolute;
+    border-bottom: 0px;
+    left: 0px;
+    width: 1215px;
+    height: 150px;
+
+    
+    color: white;
+    text-align: center;
+}
+
+.footer h5 {
+    width: 1150px;
+}
